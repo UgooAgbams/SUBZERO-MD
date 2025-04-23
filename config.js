@@ -14,10 +14,10 @@ module.exports = {
     REPO: process.env.REPO || "https://github.com/mrfrankofcc/SUBZERO-MD",  // Bot's GitHub repo
 
     // ===== OWNER & DEVELOPER SETTINGS =====
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",  // Owner's WhatsApp number
-    OWNER_NAME: process.env.OWNER_NAME || "Mr Frank",           // Owner's name
-    DEV: process.env.DEV || "263719647303",                     // Developer's contact number
-    DEVELOPER_NUMBER: '263719647303@s.whatsapp.net',            // Developer's WhatsApp ID
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "2349070905560",  // Owner's WhatsApp number
+    OWNER_NAME: process.env.OWNER_NAME || "Ugoo Agbams",           // Owner's name
+    DEV: process.env.DEV || "2349070905560",                     // Developer's contact number
+    DEVELOPER_NUMBER: '2349070905560@s.whatsapp.net',            // Developer's WhatsApp ID
 
     // ===== AUTO-RESPONSE SETTINGS =====
     AUTO_REPLY: process.env.AUTO_REPLY || "false",              // Enable/disable auto-reply
